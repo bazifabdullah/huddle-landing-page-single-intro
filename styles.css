@@ -136,7 +136,7 @@ a {
     }
 
     .detail-container {
-        padding: 60px;
+        padding: 30px;
         display: flex;
         flex-direction: column;
         justify-content: first baseline;
