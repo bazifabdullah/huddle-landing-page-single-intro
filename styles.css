@@ -39,6 +39,8 @@ body {
 }
 
 .main-container {
+    margin: 0 auto;
+    max-width: 1440px;
     padding: 20px;
 }
 
@@ -48,6 +50,7 @@ body {
     display: block;
     margin: 20px auto;
 }
+
 
 .img-container {
     width: 100%;
